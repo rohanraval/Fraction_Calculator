@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Future Improvements for the app:
 
 - [x] Make a more robust UI and/or implement this application in Android.
-- [x] Add extended functionality (e.g. allow users to find the greatest common factor (GCM) and least common multiple (LCM) of two fractions).
+- [x] Add extended functionality (e.g. allow users to find the greatest common factor (GCF) and least common multiple (LCM) of two fractions).
 
 ## License
 
